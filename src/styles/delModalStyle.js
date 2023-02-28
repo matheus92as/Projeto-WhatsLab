@@ -57,7 +57,7 @@ export const Backgound = styled.div`
       transition: 0.2s;
     }
   }
-  @media screen and (min-device-width: 320px) and (max-device-width: 375px) {
+  @media screen and (min-device-width: 320px) and (max-device-width: 400px) {
     .content {
       width: 80%;
       button {
