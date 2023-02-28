@@ -16,6 +16,7 @@ Esta pratica teve foco em aprender a usar inputs e saber manipular os dados obti
 - O layout esta responsivo.
 
 ### O que não funciona
+- Não há opção de inserir imagens, audio ou emotions.
 - Salvar histórico de mensagens.
 
 ### Link do projeto realizado no Bootcamp 
@@ -28,4 +29,14 @@ https://projeto-whats-lab-theta.vercel.app
 
 ### Imagens
 
-![WhatsLab](https://user-images.githubusercontent.com/99031516/160210226-845fa54a-9abc-4bb7-8e77-04ee4436cac9.jpg)
+![image](https://user-images.githubusercontent.com/99031516/221915429-ebcfc3aa-7bec-4fcf-9263-fa55f2fa7bf1.png)
+
+![image](https://user-images.githubusercontent.com/99031516/221916230-49453196-4c00-4cb3-984b-409e289ca544.png)
+
+
+Celular - iPhone12 Pro
+
+![image](https://user-images.githubusercontent.com/99031516/221916106-74c67e1e-ba87-4f5d-8b60-25751a9520db.png)
+
+![image](https://user-images.githubusercontent.com/99031516/221916391-0bcf3d88-e92d-49eb-b99b-39094d92bda7.png)
+
