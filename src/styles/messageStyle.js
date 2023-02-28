@@ -37,14 +37,14 @@ export const BalaoMsgOutros = styled.div`
   border-radius: 0.5em;
   .p1 {
     position: absolute;
-    top: -12px;
+    top: -10px;
     left: -5px;
     font-weight: bolder;
     color: #3d85c6;
     z-index: 2;
   }
   .p2 {
-    margin-top: 18px;
+    margin-top: 22px;
     word-wrap: break-word;
     color: #bcbcbc;
   }
