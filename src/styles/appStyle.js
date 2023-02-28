@@ -19,7 +19,7 @@ export const ContainerWhats = styled.div`
   border: 7px solid black;
   border-radius: 30px;
   overflow: hidden;
-  background-color: #8fce00;
+  background-color: #38761d;
   background-image: url(https://i.pinimg.com/474x/40/39/e0/4039e0f1ef08b7b965bacb4641a7af49--wallpaper-whatsapp-whatsapp-background.jpg);
   h1 {
     color: white;

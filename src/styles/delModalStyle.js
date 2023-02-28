@@ -11,7 +11,7 @@ export const Backgound = styled.div`
   z-index: 3;
   position: absolute;
   bottom: 0;
-  .content{
+  .content {
     display: flex;
     flex-direction: column;
     text-align: left;
@@ -20,41 +20,52 @@ export const Backgound = styled.div`
     height: fit-content;
     padding: 10px;
     border-radius: 10px;
-    background-color:#617c7c;
+    background-color: #617c7c;
     color: #eeeeee;
-    p{
-        margin: 5px 0 25px 0px;
-        padding: 0;
+    p {
+      margin: 5px 0 25px 0px;
+      padding: 0;
     }
-    button{
-        padding: 10px 20px;
-        border-radius: 5px;
-        margin: 5px;
+    button {
+      padding: 10px 20px;
+      border-radius: 5px;
+      margin: 5px;
     }
   }
-  #buttons{
+  #buttons {
     display: flex;
     justify-content: end;
   }
-  #no{
+  #no {
     border: 1px solid #eeeeee;
     background-color: inherit;
     color: #37af03;
     transition: 0.2s;
-    :hover{
-        background-color: #8ea2a2;
-        color: #45d904;
-        transition: 0.2s;
+    :hover {
+      background-color: #8ea2a2;
+      color: #45d904;
+      transition: 0.2s;
     }
   }
-  #yes{
+  #yes {
     border: none;
     background-color: #37af03;
     color: black;
     transition: 0.2s;
-    :hover{
-        background-color: #45d904;
-        transition: 0.2s;
+    :hover {
+      background-color: #45d904;
+      transition: 0.2s;
+    }
+  }
+  @media screen and (min-device-width: 320px) and (max-device-width: 375px) {
+    .content {
+      width: 80%;
+      button {
+        margin: 0px;
+      }
+      #buttons {
+        gap: 5px;
+      }
     }
   }
 `;
