@@ -8,7 +8,7 @@
 </br>
 
 Projeto realizado durante Bootcamp da Labenu, uma pratica muito legal com a ideia de simular conversas de WhatsApp, porém não há comunicação entre duas pessoas, apenas conversar "forjadas".
-Esta pratica teve foco em aprender a usar inputs e saber manipular os dados obtidos neles, assim como estilização do todo, criando condições especificas para situações especificas.
+Nesta pratica o foco foi aprender a usar inputs e saber manipular os dados obtidos neles, assim como estilização do todo, criando condições especificas para situações especificas.
 
 </br>
 
